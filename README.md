@@ -12,3 +12,5 @@ https://joe-white09.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Joe White
+
+# Run Buddy Inc.
